@@ -98,7 +98,7 @@ header {
 	margin-left: 60px;
 	width: 1040px;
 	height: 810px;
-	background: #e2e8e8;
+	background: url(../img/RIM.jpg);
 	position: absolute;
 }
 
@@ -201,7 +201,7 @@ header {
 	text-align: center;
 	line-height: 20px;
 	color: #fff;
-	padding-left: 125px;
+	padding-left: 142.455px;
 	display: none;
 }
 
@@ -216,28 +216,8 @@ header {
 	display: block;
 }
 
-.more {
-	margin: 0 auto;
-	display: block;
-	width: 220px;
-	height: 60px;
-	margin-top: 60px;
-	font-size: 14px;
-	font-weight: 800;
-	font-family: 'Nunito', sans-serif;
-	text-align: center;
-	color: #fff;
-	background: #b4d3d3;
-	border-radius: 26px;
-	border: none;
-	margin-bottom: 120px;
-	transition: 0.35s;
-}
-
-.more:hover {
-	border: none;
-	background: #d3dcdc;
-	color: #2d2f33;
+footer {
+	margin-top: 120px;
 }
 
 .footer_prava {
@@ -259,3 +239,37 @@ header {
 	color: #bcd7d7;
 	cursor: pointer;
 }
+
+
+
+		.fotop1 {
+			background: url(../img/p1.jpg);
+		}
+
+		.fotop2 {
+			background: url(../img/p2.jpg);
+		}
+
+		.fotop3 {
+			background: url(../img/p3.jpg);
+		}
+
+		.fotop4 {
+			background: url(../img/p4.jpg);
+		}
+
+		.fotop5 {
+			background: url(../img/p5.jpg);
+		}
+
+		.fotop6 {
+			background: url(../img/p6.jpg);
+		}
+
+		.fotop7 {
+			background: url(../img/p7.jpg);
+		}
+
+		.fotop8 {
+			background: url(../img/p8.jpg);
+		}

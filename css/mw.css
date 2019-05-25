@@ -1,0 +1,139 @@
+@media screen and (max-width: 1500px) {
+    .bg-div {
+        width: 630px;
+        height: 650px;
+    }
+    
+    .rim-bg {
+        width: 850px;
+        height: 760px;
+    }
+    
+    .rim {
+        margin-top: 206px;
+    }
+    
+    .go-rim {
+        margin-top: 650px;
+    }
+    
+    .head {
+        margin-bottom: 50px;
+    }
+    
+    .category_foto {
+        height: 420px;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .bg-div {
+        width: 490px;
+        height: 510px;
+    }
+    
+    .rim-bg {
+        width: 710px;
+        height: 620px;
+    }
+    
+    .rim {
+        margin-top: 146px;
+        font-size: 91px;
+        line-height: 85px;
+    }
+    
+    .go-rim {
+        margin-top: 510px;
+    }
+    
+    .head {
+        margin-bottom: 0;
+    }
+    
+    .category_foto {
+        height: 350px;
+    }
+
+    .category_foto i {
+        padding-top: 16px;
+        padding-left: 17px;
+        display: none;
+        width: 46px;
+        height: 46px;
+        font-size: 12px;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .bg-div {
+        width: 349px;
+        height: 363px;
+    }
+    
+    .rim-bg {
+        width: 505px;
+        height: 441px;
+    }
+    
+    .rim {
+        margin-top: 104px;
+        font-size: 65px;
+        line-height: 60px;
+    }
+    
+    .go-rim {
+        width: 80px;
+        height: 80px;
+        padding-top: 25px;
+        margin-top: 363px;
+    }
+    
+    .head {
+        margin-bottom: 0;
+    }
+    
+    .category_foto {
+        height: 249px;
+    }
+
+    .category_foto img {
+        width: 454px;
+        height: 490px;
+    }
+
+    .category_foto i {
+        padding-top: 12px;
+        padding-left: 17px;
+        display: none;
+        width: 46px;
+        height: 46px;
+        font-size: 12px;
+    }
+
+    .rim-description {
+        margin-top: 59px;
+        font-size: 14px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+}
+
+
+@media screen and (max-width: 576px) {
+    .category_foto {
+        height: 520px;
+    }
+
+    .category_foto i {
+        padding-top: 19px;
+        padding-left: 21px;
+        width: 56px;
+        height: 56px;
+        font-size: 14px;
+    }
+}
